@@ -2,7 +2,7 @@
 
 **Aluno:** Vinicius Leite
 **RA:** 60015455
-**Grupo:** (adicionar nomes e RAs dos integrantes)
+
 
 ---
 
